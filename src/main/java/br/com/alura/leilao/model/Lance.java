@@ -34,6 +34,7 @@ public class Lance {
 	@JoinColumn(nullable = false)
 	private Leilao leilao;
 
+	
 	@Deprecated
 	public Lance() {
 	}
