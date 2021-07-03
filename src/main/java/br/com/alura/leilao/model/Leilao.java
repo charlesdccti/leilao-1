@@ -50,6 +50,7 @@ public class Leilao {
 
 	private Boolean fechado = false;
 
+	
 	@Deprecated
 	public Leilao() {
 	}
