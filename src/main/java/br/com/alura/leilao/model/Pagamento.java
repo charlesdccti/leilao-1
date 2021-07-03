@@ -35,6 +35,7 @@ public class Pagamento {
 
 	private Boolean pago;
 
+	
 	public Pagamento(Lance lanceVencedor, LocalDate vencimento) {
 		this.leilao = lanceVencedor.getLeilao();
 		this.usuario = lanceVencedor.getUsuario();
