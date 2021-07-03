@@ -38,6 +38,7 @@ public class Usuario {
 	private String role;
 	private boolean enabled;
 
+	
 	@Deprecated
 	public Usuario() {
 	}
