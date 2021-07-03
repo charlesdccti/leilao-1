@@ -17,6 +17,7 @@ public class NovoLanceDto {
 
 	private Long leilaoId;
 
+	
 	public BigDecimal getValor() {
 		return valor;
 	}
